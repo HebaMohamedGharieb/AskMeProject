@@ -1,0 +1,7 @@
+3,-1,4,6,cats or dogs?,cats,
+5,-1,2,1,nice to meet you,my pleasure dear,
+6,5,3,1,I'm so grateful to meet you,
+7,-1,3,2,can i ask you about your salary?,
+8,-1,3,4,mikasa do you consider me your family?,yes,
+9,-1,4,3,were are you eren?,
+10,0,11,4,,

@@ -1,0 +1,3 @@
+C:/Users/Heba/CLionProjects/ASKMeV1/cmake-build-debug/CMakeFiles/ASKMeV1.dir
+C:/Users/Heba/CLionProjects/ASKMeV1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Heba/CLionProjects/ASKMeV1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
